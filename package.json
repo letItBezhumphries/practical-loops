@@ -1,0 +1,17 @@
+{
+  "name": "308",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fizzBuzz.js",
+  "scripts": {
+    "startFizz": "node fizzBuzz.js",
+    "startPrime": "node primeTime.js",
+    "startLoopy": "node feelingLoopy.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
